@@ -1,0 +1,5 @@
+
+* improve tokenization to suit the type of text in the Quill Project
+* by default differnt color schemes
+* better handling of compound words
+* improve the lowercase/uppercase handling of input text in model_for_quill
