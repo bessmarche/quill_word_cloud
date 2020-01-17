@@ -1,5 +1,5 @@
 # quill_word_cloud
-A version of the python wordcloud module (to be found at: https://github.com/amueller/word_cloud) customized for use by the Quill Project.
+Based on the python wordcloud module (to be found at: https://github.com/amueller/word_cloud) customized for use by the Quill Project.
 
 Quill specific feautures include:
 
