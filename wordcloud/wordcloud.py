@@ -807,7 +807,7 @@ class WordCloud(object):
                  </body>
             </html>
             """
-            body = self.to_svg
+            body = self.to_svg()
             html: str = (html_start % (self.background_color, body))
             return html
 
