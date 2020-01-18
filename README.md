@@ -11,4 +11,7 @@ Quill specific feautures include:
 
 - make_for_quill() a method that given a list of strings outputs a wordcloud in the form of an html string to suit the requirements fothe Quill Project topic overview (canvas dimension, font, number of words, coulor_scheme, min and max font size, the amount of priority given to Named Entities). All of these requrements can be altered in the model_for_quill.py file 
 
+## Example usage
 
+TO see an example of how to get the software up and running, please see the
+example folder
