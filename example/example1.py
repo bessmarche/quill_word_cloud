@@ -14,7 +14,7 @@ import nltk
 #nltk.download('punkt')
 # remember if using a custom download dir to add the download path:
 #nltk.data.path.append('.../.../nltk_data')
-nltk.data.path.append('/home/jamesfallon/Packages/nltk_data')
+#e.g. nltk.data.path.append('/home/jamesfallon/Packages/nltk_data')
 
 # Enter test text eg. Lorem Ipsum
 test_list = ['test Lorem ipsum dolor sit amet', 
